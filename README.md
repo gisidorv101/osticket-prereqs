@@ -39,7 +39,7 @@ Created and started the osticket-vm virtual machine in Microsoft Azure. The VM r
 <img <img width="1918" height="1037" alt="image" src="https://github.com/user-attachments/assets/847afa2b-5169-4671-8443-0f985968627f" />
 </p>
 <p>
-Configured Internet Information Services (IIS) for osTicket and verified that the osTicket website was available under the Default Web Site.
+Enabled and configured IIS with CGI, PHP Manager, and URL Rewrite to support the osTicket web application.
 <p>
 
 
