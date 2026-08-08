@@ -19,11 +19,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
--Microsoft Azure Virtual Machine
--Remote Desktop Connection
--Internet Information Services (IIS) with CGI
--PHP and PHP Manager for IIS
--MySQL and HeidiSQL
+- Microsoft Azure Virtual Machine
+- Remote Desktop Connection
+- Internet Information Services (IIS) with CGI
+- PHP and PHP Manager for IIS
+- MySQL and HeidiSQL
 
 <h2>Installation Steps</h2>
 
