@@ -53,8 +53,7 @@ Next, we are going to install the osTicket software and unzip the files onto you
 <img width="1502" height="906" alt="Screenshot 2026-08-12 at 3 03 51 PM" src="https://github.com/user-attachments/assets/53d7ad3b-df95-4fb8-aff4-f997c3fe1e38" />
 <p>
 <p>
-Go to Control Panel/ Programs/ Programs and Features/ Turn Windows features on or off
-Then, once we get to this screen, we choose .NET Framework 3.5 and Internet Information Services. Once we go to the IIS screen, expand it and go under World Wide Web Services/ Aplication Development Features/ CGI and check it. Once all done hit apply and ok
+Go to Control Panel/ Programs/ Programs and Features/ Turn Windows features on or off. Then, once we get to this screen, we choose .NET Framework 3.5 and Internet Information Services. Once we go to the IIS screen, expand it and go under World Wide Web Services/ Aplication Development Features/ CGI and check it. Once all done hit apply and ok
 </p>
 <br />
 <h3> Step 4. </h3>
