@@ -82,4 +82,17 @@ Make a file on your C drive and name it "PHP". Extract the existing PHP file on 
 <img width="1118" height="655" alt="Screenshot 2026-08-12 at 3 31 41 PM" src="https://github.com/user-attachments/assets/c5f32394-d979-4252-98fd-45e9ca6ffbda" />
 
 
-Now we are going to run IIS as an ADMIN and then go to PHP Manager, register a new PHP version, click the 3 dots, and find the PHP on the C drive (the one we made earlier), Click "php.cgi" and ok. Then go ahead and Stop and Start the server
+Now we are going to run IIS as an ADMIN and then go to PHP Manager, register a new PHP version, click the 3 dots, and find the PHP on the C drive (the one we made earlier). Click "php.cgi" and ok. Then go ahead and stop and start the server
+</p>
+<br />
+<h3> Step 7. </h3>
+
+<img width="776" height="594" alt="Screenshot 2026-08-12 at 3 37 09 PM" src="https://github.com/user-attachments/assets/456680f8-6cfe-44b6-9f91-448610df84ab" />
+
+<img width="333" height="266" alt="Screenshot 2026-08-12 at 3 36 54 PM" src="https://github.com/user-attachments/assets/24ad4c05-eb23-4f1e-9fb4-9a65d2c25e23" />
+
+<img width="286" height="227" alt="Screenshot 2026-08-12 at 3 39 52 PM" src="https://github.com/user-attachments/assets/4069d0d6-840d-4d8a-858e-c1c607746857" />
+
+<img width="1118" height="655" alt="Screenshot 2026-08-12 at 3 31 41 PM" src="https://github.com/user-attachments/assets/7c785ddd-8129-429a-9f81-230549fa091b" />
+
+Now we are going to extract the osTicket ZIP. Once it's all done, we are going to copy the "upload" folder to C:Drive/ inetpub/ wwwroot, and paste it there, renaming it "osTicket" and then go ahead and stop and start the server again.
