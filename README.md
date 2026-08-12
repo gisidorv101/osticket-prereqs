@@ -53,7 +53,7 @@ Next, we are going to install the osTicket software and unzip the files onto you
 <img width="1502" height="906" alt="Screenshot 2026-08-12 at 3 03 51 PM" src="https://github.com/user-attachments/assets/53d7ad3b-df95-4fb8-aff4-f997c3fe1e38" />
 <p>
 <p>
-Go to Control Panel/ Programs/ Programs and Features/ Turn Windows features on or off. Then, once we get to this screen, we choose .NET Framework 3.5 and Internet Information Services. Once we go to the IIS screen, expand it and go under World Wide Web Services/ Aplication Development Features/ CGI and check it. Once all done hit apply and ok
+Go to Control Panel/ Programs/ Programs and Features/ Turn Windows features on or off. Then, once we get to this screen, we choose .NET Framework 3.5 and Internet Information Services. Once we go to the IIS screen, expand it and go under World Wide Web Services/ Aplication Development Features/ CGI and check it. Once all done, hit apply and ok
 </p>
 <br />
 <h3> Step 4. </h3>
@@ -95,4 +95,13 @@ Now we are going to run IIS as an ADMIN and then go to PHP Manager, register a n
 
 <img width="1118" height="655" alt="Screenshot 2026-08-12 at 3 31 41 PM" src="https://github.com/user-attachments/assets/7c785ddd-8129-429a-9f81-230549fa091b" />
 
-Now we are going to extract the osTicket ZIP. Once it's all done, we are going to copy the "upload" folder to C:Drive/ inetpub/ wwwroot, and paste it there, renaming it "osTicket" and then go ahead and stop and start the server again.
+Now we are going to extract the osTicket ZIP. Once it's all done, we are going to copy the "upload" folder to C:Drive/ inetpub/ wwwroot, and paste it there, renaming it "osTicket," and then go ahead and stop and start the server again.
+</p>
+<br />
+<h3> Step 8. </h3>
+
+<img width="385" height="448" alt="Screenshot 2026-08-12 at 3 46 01 PM" src="https://github.com/user-attachments/assets/5b5a6b60-80ee-43bf-bc79-43ad4546e426" />
+
+<img width="396" height="315" alt="Screenshot 2026-08-12 at 3 52 21 PM" src="https://github.com/user-attachments/assets/2402b881-64a1-45a4-9676-06330dae62ca" />
+
+Now we can load up the osTicket website, and it should load up this screen. We are now going to have to go back into IIS to make some changes so osTicket can fully run. Go to osticket-vm/sites/osTicket/PHP Manager. Enable or disable an extension. Once we get to that screen, enable these 3: "php_imap.dll," "php_intl.dll", and "php_opcache.dll"
