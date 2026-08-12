@@ -71,3 +71,8 @@ We should be able to load up the page "127.0.0.1," and it should be active; we c
 
 
 Make a file on your C drive and name it "PHP". Extract the existing PHP file on the C drive and continue with the rest of the installation. Once you are all done with that, we are going to install SQL, click on it and go through the prompts, make sure to click on standard configurations and continue the setup as normal
+</p>
+<br />
+<h3> Step 6. </h3>
+
+Now we are going to run IIS as an ADMIN and then go to PHP Manager, register a new PHP version, click the 3 dots, and find the PHP on the C drive (the one we made earlier), Click "php.cgi" and ok. Then go ahead and Stop and Start the server
