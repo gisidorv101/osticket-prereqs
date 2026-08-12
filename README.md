@@ -117,5 +117,17 @@ Now we can load up the osTicket website, and it should load up this screen. We a
 
 <img width="557" height="375" alt="Screenshot 2026-08-12 at 4 07 53 PM" src="https://github.com/user-attachments/assets/cc133ed0-51e9-41aa-9ada-3164121ef3d7" />
 
-We are now going to rename a file to give permissions. To do that, we need to go to C:Drive/ inetpub/osTicket/include/ost-sampleconfig.php. We are going to change the file name from "ost-sampleconfig.php" to "ost-config.php" and then assign permissions to everyone by clicking Properties/Security/Advanced/Disable Inheritance and add permission, hit apply and ok
+We are now going to rename a file to give permissions. To do that, we need to go to C:Drive/ inetpub/osTicket/include/ost-sampleconfig.php. We are going to change the file name from "ost-sampleconfig.php" to "ost-config.php" and then assign permissions to everyone by clicking Properties/Security/Advanced/Disable Inheritance and add permission, hit Apply and ok
+</p>
+<br />
+<h3> Step 10. </h3>
+<img width="380" height="376" alt="Screenshot 2026-08-12 at 3 54 09 PM" src="https://github.com/user-attachments/assets/daa76b53-3b11-465e-957c-79520b46e4d1" />
+
+<img width="667" height="781" alt="Screenshot 2026-08-12 at 4 09 36 PM" src="https://github.com/user-attachments/assets/7377087f-e776-4682-81c3-24277746e5c3" />
+
+Hit Continue and Sign up
+</p>
+<br />
+<h3> Step 11. </h3>
+
 
