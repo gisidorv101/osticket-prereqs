@@ -104,4 +104,18 @@ Now we are going to extract the osTicket ZIP. Once it's all done, we are going t
 
 <img width="396" height="315" alt="Screenshot 2026-08-12 at 3 52 21 PM" src="https://github.com/user-attachments/assets/2402b881-64a1-45a4-9676-06330dae62ca" />
 
-Now we can load up the osTicket website, and it should load up this screen. We are now going to have to go back into IIS to make some changes so osTicket can fully run. Go to osticket-vm/sites/osTicket/PHP Manager. Enable or disable an extension. Once we get to that screen, enable these 3: "php_imap.dll," "php_intl.dll", and "php_opcache.dll"
+<img width="380" height="376" alt="Screenshot 2026-08-12 at 3 54 09 PM" src="https://github.com/user-attachments/assets/24eab95e-4451-4785-b3c9-daebaf6dc3e6" />
+
+Now we can load up the osTicket website, and it should load up this screen. We are now going to have to go back into IIS to make some changes so osTicket can fully run. Go to osticket-vm/sites/osTicket/PHP Manager. Enable or disable an extension. Once we get to that screen, enable these 3: "php_imap.dll," "php_intl.dll", and "php_opcache.dll." Click Apply and ok
+</p>
+<br />
+<h3> Step 9. </h3>
+
+<img width="668" height="780" alt="Screenshot 2026-08-12 at 4 00 35 PM" src="https://github.com/user-attachments/assets/0b9a24b9-42e0-4558-b775-89e69e5fc1dc" />
+
+<img width="667" height="775" alt="Screenshot 2026-08-12 at 4 02 20 PM" src="https://github.com/user-attachments/assets/92198286-6310-4009-8b0b-bc22659a9f4c" />
+
+<img width="557" height="375" alt="Screenshot 2026-08-12 at 4 07 53 PM" src="https://github.com/user-attachments/assets/cc133ed0-51e9-41aa-9ada-3164121ef3d7" />
+
+We are now going to rename a file to give permissions. To do that, we need to go to C:Drive/ inetpub/osTicket/include/ost-sampleconfig.php. We are going to change the file name from "ost-sampleconfig.php" to "ost-config.php" and then assign permissions to everyone by clicking Properties/Security/Advanced/Disable Inheritance and add permission
+
