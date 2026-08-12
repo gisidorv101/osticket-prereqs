@@ -129,5 +129,24 @@ Hit Continue and Sign up
 </p>
 <br />
 <h3> Step 11. </h3>
+<img width="434" height="340" alt="Screenshot 2026-08-12 at 4 12 32 PM" src="https://github.com/user-attachments/assets/c43d9661-fc1a-42b6-ab8b-96589ad9703e" />
+
+<img width="498" height="341" alt="Screenshot 2026-08-12 at 4 14 01 PM" src="https://github.com/user-attachments/assets/7e97468d-2488-4e8f-8c33-b0a194e1c87e" />
+
+<img width="661" height="429" alt="Screenshot 2026-08-12 at 4 15 24 PM" src="https://github.com/user-attachments/assets/2da0086a-1132-4b33-b2e7-42a6a2824c10" />
+
+<img width="670" height="464" alt="Screenshot 2026-08-12 at 4 16 01 PM" src="https://github.com/user-attachments/assets/734aca95-f671-407a-a23b-5c4cd40ba596" />
 
 
+Download "HeidiSQL" from the osTicket folder on the desktop, go through the prompts like normal, and install. Once HeidiSQL is opened, click on "New" and use your login info, then click "Open". Right-click on it and click create new/ database and name it "osTicket," click ok
+</p>
+<br />
+<h3> Step 12. </h3>
+<img width="662" height="776" alt="Screenshot 2026-08-12 at 4 18 08 PM" src="https://github.com/user-attachments/assets/9fa76666-8eb3-487d-9bc8-7e93f542e453" />
+
+<img width="658" height="767" alt="Screenshot 2026-08-12 at 4 18 31 PM" src="https://github.com/user-attachments/assets/ef2b6efb-84d8-4e37-a7be-53bbeb1494f0" />
+
+<img width="711" height="776" alt="Screenshot 2026-08-12 at 4 18 45 PM" src="https://github.com/user-attachments/assets/7dd65b07-1996-47e9-ae23-637a20c3c68f" />
+
+
+osTicket has successfully been installed on your device 
