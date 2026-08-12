@@ -117,5 +117,5 @@ Now we can load up the osTicket website, and it should load up this screen. We a
 
 <img width="557" height="375" alt="Screenshot 2026-08-12 at 4 07 53 PM" src="https://github.com/user-attachments/assets/cc133ed0-51e9-41aa-9ada-3164121ef3d7" />
 
-We are now going to rename a file to give permissions. To do that, we need to go to C:Drive/ inetpub/osTicket/include/ost-sampleconfig.php. We are going to change the file name from "ost-sampleconfig.php" to "ost-config.php" and then assign permissions to everyone by clicking Properties/Security/Advanced/Disable Inheritance and add permission
+We are now going to rename a file to give permissions. To do that, we need to go to C:Drive/ inetpub/osTicket/include/ost-sampleconfig.php. We are going to change the file name from "ost-sampleconfig.php" to "ost-config.php" and then assign permissions to everyone by clicking Properties/Security/Advanced/Disable Inheritance and add permission, hit apply and ok
 
