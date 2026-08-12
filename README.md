@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img <img width="1511" height="848" alt="image" src="https://github.com/user-attachments/assets/6afbeda7-d4b5-4ca5-ae41-01bceaedc2a8" />
 </p>
 <p>
-Created and started the osticket-vm virtual machine in Microsoft Azure. The VM runs Windows 10 and was accessed through Remote Desktop to begin the osTicket installation.
+I started off by creating a "Virtual Machine" by going to the search bar and seraching "VM." I then go on the drop box and click "Virtual Machine" and name it "osticket-vm" in Microsoft Azure. The VM runs Windows 10 and was accessed through Remote Desktop to begin the osTicket installation. I then go and put the IP address along with the username and password and log in
 </p>
 <br />
 
