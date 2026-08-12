@@ -75,4 +75,11 @@ Make a file on your C drive and name it "PHP". Extract the existing PHP file on 
 <br />
 <h3> Step 6. </h3>
 
+<img width="1508" height="915" alt="Screenshot 2026-08-12 at 3 30 22 PM" src="https://github.com/user-attachments/assets/eb6e68a3-0d9f-4ce9-accd-e1fe9fd33a88" />
+
+<img width="393" height="383" alt="Screenshot 2026-08-12 at 3 31 11 PM" src="https://github.com/user-attachments/assets/f97f5196-5236-4165-9ace-7f5420d53fe0" />
+
+<img width="1118" height="655" alt="Screenshot 2026-08-12 at 3 31 41 PM" src="https://github.com/user-attachments/assets/c5f32394-d979-4252-98fd-45e9ca6ffbda" />
+
+
 Now we are going to run IIS as an ADMIN and then go to PHP Manager, register a new PHP version, click the 3 dots, and find the PHP on the C drive (the one we made earlier), Click "php.cgi" and ok. Then go ahead and Stop and Start the server
